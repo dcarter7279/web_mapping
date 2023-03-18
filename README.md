@@ -45,4 +45,5 @@ name: the name of the feature group (used for the layer control)
 References:
 
 Folium documentation
+
 GeoJSON data from Natural Earth
