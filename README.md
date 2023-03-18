@@ -4,11 +4,14 @@ Creating a map using Folium
 This script uses the Folium library in Python to create an interactive map that shows the location and elevation of volcanoes around the world. The map also displays the population of different countries using GeoJSON data.
 
 Requirements
+
 To run this script, you will need:
 
-Python 3.x
-pandas
-folium
+Python 3.9.13
+
+Pandas
+
+Folium
 
 Usage
 
